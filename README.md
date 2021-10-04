@@ -12,7 +12,7 @@ Este proyecto consiste en una aplicación desarrollada mediante el framework Spr
 
 - Colocar el username y password acorde a su configuracion.
 
--- spring.datasource.url= jdbc:postgresql://localhost:1450/concesionario
+  - spring.datasource.url= jdbc:postgresql://localhost:1450/concesionario
 - spring.datasource.username= postgres
 - spring.datasource.password= 1993
 
