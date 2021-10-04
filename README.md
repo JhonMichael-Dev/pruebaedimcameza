@@ -1,4 +1,4 @@
-# Ppractica-Ordenes-BackEnd
+# BackEnd 
 
 Este proyecto consiste en una aplicación desarrollada mediante el framework Spring boot y permite realizar ordenes de productos para clientes. El proyecto se comunica a través de servicios REST al FrontEnd, desarrollada en React.
 
