@@ -10,7 +10,7 @@ Este proyecto consiste en una aplicación desarrollada mediante el framework Spr
 
 - La conexión de la base de datos con la aplicación BackEnd, se la realiza a través de hibernate, mediante la modificación del archivo src/main/resources/application.properties.
 
-- Colocar el username y password acorde a su configuracion.
+- La configuracion se detalla a continuacion (Colocar el username y password acorde a su configuracion):
 
   - spring.datasource.url= jdbc:postgresql://localhost:1450/concesionario
   - spring.datasource.username= postgres
