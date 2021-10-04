@@ -12,12 +12,12 @@ Este proyecto consiste en una aplicación desarrollada mediante el framework Spr
 
 - Colocar el username y password acorde a su configuracion.
 
--spring.datasource.url= jdbc:postgresql://localhost:1450/concesionario
--spring.datasource.username= postgres
--spring.datasource.password= 1993
+- spring.datasource.url= jdbc:postgresql://localhost:1450/concesionario
+- spring.datasource.username= postgres
+- spring.datasource.password= 1993
 
--spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation= true
--spring.jpa.properties.hibernate.dialect= org.hibernate.dialect.PostgreSQLDialect
+- spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation= true
+- spring.jpa.properties.hibernate.dialect= org.hibernate.dialect.PostgreSQLDialect
 
 # Hibernate ddl auto (create, create-drop, validate, update)
 spring.jpa.hibernate.ddl-auto= update
